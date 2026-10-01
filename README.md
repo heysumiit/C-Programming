@@ -80,7 +80,3 @@ Replace `filename.c` with the name of your C source file.
 * Understand errors and debugging techniques.
 * Apply programming concepts to practical problems.
 * Track learning progress through regular coding practice.
-
----
-
-*Learning C programming one program at a time.*
